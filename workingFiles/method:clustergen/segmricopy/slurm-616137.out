@@ -1,0 +1,116 @@
+Loading state dict
+loaded model
+All file names are correct
+Number of samples is 7
+Loss: 0.7674837963921683. Dice score in the validation set (synthetic): 0.7559936046600342. (real eval): 0.63060329357783. Time per epoch: 0.5236161867777507 minutes
+Loss: 0.6430788806506565. Dice score in the validation set (synthetic): 0.8031760113579887. (real eval): 0.6856327652931213. Time per epoch: 0.40873658657073975 minutes
+Loss: 0.611945629119873. Dice score in the validation set (synthetic): 0.811888473374503. (real eval): 0.7501873175303141. Time per epoch: 0.43628497123718263 minutes
+Loss: 0.6046288864953178. Dice score in the validation set (synthetic): 0.8303635546139309. (real eval): 0.7655902107556661. Time per epoch: 0.44345248540242516 minutes
+Loss: 0.5907456108501979. Dice score in the validation set (synthetic): 0.8408232586724418. (real eval): 0.7193499803543091. Time per epoch: 0.4512833595275879 minutes
+Loss: 0.5856399536132812. Dice score in the validation set (synthetic): 0.8471407038824899. (real eval): 0.7116581002871195. Time per epoch: 0.42008821964263915 minutes
+Loss: 0.5848550285611834. Dice score in the validation set (synthetic): 0.8530593514442444. (real eval): 0.7416130105654398. Time per epoch: 0.42907732327779136 minutes
+Loss: 0.5784860338483538. Dice score in the validation set (synthetic): 0.8480597053255353. (real eval): 0.7716029286384583. Time per epoch: 0.4384168148040771 minutes
+Loss: 0.5792316624096462. Dice score in the validation set (synthetic): 0.8521791355950492. (real eval): 0.7765117287635803. Time per epoch: 0.41197449366251626 minutes
+Loss: 0.5746464218412127. Dice score in the validation set (synthetic): 0.8580246993473598. (real eval): 0.7733507553736368. Time per epoch: 0.4627060492833455 minutes
+Loss: 0.5768483281135559. Dice score in the validation set (synthetic): 0.8536192178726196. (real eval): 0.7534619371096293. Time per epoch: 0.43692655165990196 minutes
+Loss: 0.5724930082048688. Dice score in the validation set (synthetic): 0.8578705702509198. (real eval): 0.7397671937942505. Time per epoch: 0.43687201738357545 minutes
+Loss: 0.57602288041796. Dice score in the validation set (synthetic): 0.8613768134798322. (real eval): 0.753952145576477. Time per epoch: 0.4300415714581807 minutes
+Loss: 0.5717705999101911. Dice score in the validation set (synthetic): 0.8627413937023708. (real eval): 0.7664577762285868. Time per epoch: 0.4249587376912435 minutes
+Loss: 0.5742391177586147. Dice score in the validation set (synthetic): 0.8609109095164708. (real eval): 0.7621358434359232. Time per epoch: 0.4502244551976522 minutes
+Loss: 0.5693301473345075. Dice score in the validation set (synthetic): 0.8683924760137286. (real eval): 0.7661119302113851. Time per epoch: 0.44949098030726115 minutes
+Loss: 0.5722997103418622. Dice score in the validation set (synthetic): 0.861253593649183. (real eval): 0.7863354484240214. Time per epoch: 0.4344484806060791 minutes
+Loss: 0.5667788641793388. Dice score in the validation set (synthetic): 0.8710101587431771. (real eval): 0.7836259007453918. Time per epoch: 0.39271928469340006 minutes
+Loss: 0.5726572488035474. Dice score in the validation set (synthetic): 0.864979658808027. (real eval): 0.7672436038653055. Time per epoch: 0.403428308169047 minutes
+Loss: 0.5701967903545925. Dice score in the validation set (synthetic): 0.8760593959263393. (real eval): 0.7827363212903341. Time per epoch: 0.4382164557774862 minutes
+Loss: 0.5711899059159415. Dice score in the validation set (synthetic): 0.866503894329071. (real eval): 0.7698245247205099. Time per epoch: 0.42541642983754474 minutes
+Loss: 0.5686943701335362. Dice score in the validation set (synthetic): 0.8679867897714887. (real eval): 0.7557968099912008. Time per epoch: 0.4436232606569926 minutes
+Loss: 0.5643551094191415. Dice score in the validation set (synthetic): 0.8721986583300999. (real eval): 0.7728209892908732. Time per epoch: 0.44218018849690754 minutes
+Loss: 0.5679219876016889. Dice score in the validation set (synthetic): 0.8659189173153469. (real eval): 0.7792948087056478. Time per epoch: 0.42203782002131146 minutes
+Loss: 0.5654566373143878. Dice score in the validation set (synthetic): 0.8722996711730957. (real eval): 0.7754095792770386. Time per epoch: 0.45584038496017454 minutes
+Loss: 0.5673381984233856. Dice score in the validation set (synthetic): 0.869114203112466. (real eval): 0.7600162426630656. Time per epoch: 0.41312331755956017 minutes
+Loss: 0.5685643894331796. Dice score in the validation set (synthetic): 0.8729954702513558. (real eval): 0.7787414789199829. Time per epoch: 0.4024078845977783 minutes
+Loss: 0.564336223261697. Dice score in the validation set (synthetic): 0.875545152596065. (real eval): 0.7904755075772604. Time per epoch: 0.38840351899464926 minutes
+Loss: 0.5653882537569318. Dice score in the validation set (synthetic): 0.8723141636167254. (real eval): 0.7851983308792114. Time per epoch: 0.42126534779866537 minutes
+Loss: 0.5603443724768502. Dice score in the validation set (synthetic): 0.870156501020704. (real eval): 0.7707609136899313. Time per epoch: 0.44850182135899863 minutes
+Loss: 0.5681395275252206. Dice score in the validation set (synthetic): 0.8713359066418239. (real eval): 0.7706332008043925. Time per epoch: 0.40071105559666953 minutes
+Loss: 0.5585152081080845. Dice score in the validation set (synthetic): 0.8746641107967922. (real eval): 0.7833594679832458. Time per epoch: 0.41315945784250896 minutes
+Loss: 0.5686527235167367. Dice score in the validation set (synthetic): 0.8689156770706177. (real eval): 0.777708371480306. Time per epoch: 0.4058895746866862 minutes
+Loss: 0.5603527809892382. Dice score in the validation set (synthetic): 0.8733208690370832. (real eval): 0.7850132783253988. Time per epoch: 0.42773936986923217 minutes
+Loss: 0.5637340886252267. Dice score in the validation set (synthetic): 0.8765472684587751. (real eval): 0.7746418714523315. Time per epoch: 0.46813549598058063 minutes
+Traceback (most recent call last):
+  File "/scratch/itee/uqasha24/synthetic-generalisation/method:synthseg/SegMRI/finetuning.py", line 204, in <module>
+    main()
+  File "/scratch/itee/uqasha24/synthetic-generalisation/method:synthseg/SegMRI/finetuning.py", line 178, in main
+    dice_score = eval('test_' + args.model)(segmenter, val_loader, dice_metric, get_eval_post_transforms(args.LABELS), device)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/synthetic-generalisation/method:synthseg/SegMRI/utils/training.py", line 99, in test_segmenter
+    for batch_idx, data in enumerate(dataloader):
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 631, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 1326, in _next_data
+    return self._process_data(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 1372, in _process_data
+    data.reraise()
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/torch/_utils.py", line 722, in reraise
+    raise exception
+RuntimeError: Caught RuntimeError in DataLoader worker process 1.
+Original Traceback (most recent call last):
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/transform.py", line 90, in apply_transform
+    return _apply_transform(transform, data, unpack_items)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/transform.py", line 54, in _apply_transform
+    return transform(parameters)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/io/dictionary.py", line 133, in __call__
+    data = self._loader(d[key], reader)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/io/array.py", line 226, in __call__
+    img = reader.read(filename)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/data/image_reader.py", line 906, in read
+    img = nib.load(name, **kwargs_)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/nibabel/loadsave.py", line 104, in load
+    raise ImageFileError(f"Empty file: '{filename}'")
+nibabel.filebasedimages.ImageFileError: Empty file: '/scratch/itee/uqasha24/synthetic-generalisation/fatdata_split/train/labels/sub-10150.FatImaging_W.nii.gz'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/transform.py", line 90, in apply_transform
+    return _apply_transform(transform, data, unpack_items)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/transform.py", line 54, in _apply_transform
+    return transform(parameters)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/compose.py", line 173, in __call__
+    input_ = apply_transform(_transform, input_, self.map_items, self.unpack_items, self.log_stats)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/transform.py", line 114, in apply_transform
+    raise RuntimeError(f"applying transform {transform}") from e
+RuntimeError: applying transform <monai.transforms.io.dictionary.LoadImaged object at 0x7f6be9d3b010>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/torch/utils/data/_utils/worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+            ~~~~~~~~~~~~^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/data/dataset.py", line 97, in __getitem__
+    return self._transform(index)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/data/dataset.py", line 83, in _transform
+    return apply_transform(self.transform, data_i) if self.transform is not None else data_i
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/itee/uqasha24/miniconda3/envs/segmri2/lib/python3.11/site-packages/monai/transforms/transform.py", line 114, in apply_transform
+    raise RuntimeError(f"applying transform {transform}") from e
+RuntimeError: applying transform <monai.transforms.compose.Compose object at 0x7f6be96b54d0>
+

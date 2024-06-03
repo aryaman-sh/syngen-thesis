@@ -1,0 +1,2 @@
+# synGen
+Synthetic data generation

@@ -1,0 +1,7 @@
+jupyter==1.0.0
+matplotlib==3.7.1
+monai==0.9.1
+nibabel==5.1.0
+notebook==6.5.4
+onnx==1.14.0
+onnx2pytorch==0.4.1

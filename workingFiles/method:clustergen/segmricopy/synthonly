@@ -1,0 +1,11 @@
+#!/bin/bash
+#BATCH --job-name=seg
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=128G
+#SBATCH --partition=gpu
+#SBATCH --gres=gpu:tesla-smx2:1
+
+source /scratch/itee/uqasha24/miniconda3/bin/activate /scratch/itee/uqasha24/miniconda3/envs/segmri2
+python3 /scratch/itee/uqasha24/synthetic-generalisation/method:synthseg/SegMRI/train.py -d /scratch/itee/uqasha24/synthetic-generalisation/method:synthseg/experiment3/dataset/ -p "./synthOnly/" --model segmenter --data organ --nepochs 1500 --datatype organ --seed 4 --datasetName organ

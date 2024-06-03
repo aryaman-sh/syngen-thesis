@@ -1,0 +1,10 @@
+/scratch/itee/uqasha24/miniconda3/envs/robust_dl/lib/python3.11/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: 'libc10_cuda.so: cannot open shared object file: No such file or directory'If you don't plan on using image functionality from `torchvision.io`, you can ignore this warning. Otherwise, there might be something wrong with your environment. Did you have `libjpeg` or `libpng` installed before building `torchvision` from source?
+  warn(
+/scratch/itee/uqasha24/miniconda3/envs/robust_dl/lib/python3.11/site-packages/monai/utils/deprecate_utils.py:321: FutureWarning: monai.transforms.io.dictionary LoadImaged.__init__:image_only: Current default value of argument `image_only=False` has been deprecated since version 1.1. It will be changed to `image_only=True` in version 1.3.
+  warn_deprecated(argname, msg, warning_category)
+('/scratch/itee/uqasha24/synthetic-generalisation/fatdata_split/eval/images', 'sub-10050.FatImaging_W.nii.gz')
+Saved to:  ./tempout//organ/segmenter_69e_organ/sub-10050.FatImaging_W.nii.gz
+('/scratch/itee/uqasha24/synthetic-generalisation/fatdata_split/eval/images', 'sub-10170.FatImaging_W.nii.gz')
+Saved to:  ./tempout//organ/segmenter_69e_organ/sub-10170.FatImaging_W.nii.gz
+('/scratch/itee/uqasha24/synthetic-generalisation/fatdata_split/eval/images', 'sub-10280.FatImaging_W.nii.gz')
+Saved to:  ./tempout//organ/segmenter_69e_organ/sub-10280.FatImaging_W.nii.gz

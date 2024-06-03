@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --job-name=ary
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=32G
+#SBATCH --partition=gpu
+#SBATCH --gres=gpu:1
+
+source /scratch/itee/uqasha24/miniconda3/bin/activate /scratch/itee/uqasha24/miniconda3/envs/main
+python3 step1.py 
+
